@@ -1,0 +1,2000 @@
+{"fecha":"2018-07-24T15:48:35.146Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-12-08T13:02:59.786Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-14T19:02:16.024Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-12-23T19:22:51.119Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-09-02T13:49:59.078Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-11-01T11:02:17.687Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-11-17T16:56:43.661Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-30T11:03:21.564Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-10-28T14:15:22.461Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-12-07T10:39:33.860Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-09-24T17:21:45.439Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-02-08T09:43:55.510Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-03-08T16:05:17.723Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-06-02T17:53:59.813Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-08-09T17:01:15.169Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-05-15T15:05:04.675Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-10T10:21:17.015Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-08-21T13:58:48.257Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-07-14T16:59:18.381Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-09-14T19:03:48.115Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-04-23T13:01:57.571Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-01-03T09:01:28.696Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-07-16T10:40:13.941Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-04-01T09:05:38.929Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-10-31T11:44:17.069Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-05-28T09:53:55.773Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-04-23T15:24:19.357Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-10-06T14:17:06.520Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-07-21T13:03:06.482Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-08T13:45:38.087Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-11-08T14:46:41.750Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-07-06T14:12:51.290Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-08-22T14:07:46.113Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-03-06T10:02:05.472Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-09-13T12:04:16.218Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-11-02T15:26:12.261Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-03-01T17:39:58.604Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-03-29T11:18:06.784Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-05-07T15:35:16.226Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-07-15T13:16:29.255Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-10-23T12:36:11.947Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-12-03T14:35:13.489Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-01-10T17:34:46.444Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-04-30T13:37:31.717Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-04-07T16:10:38.848Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-23T19:39:51.431Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-11-20T19:00:28.184Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-10-24T18:16:40.984Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-10-03T09:32:28.289Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-12-01T18:32:42.839Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-31T17:11:02.496Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-08-04T12:05:12.940Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-04T17:09:07.736Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-10-26T14:24:11.940Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-06-14T14:37:44.075Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-12-22T17:55:11.214Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-03-16T09:10:11.294Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-12-14T16:59:51.059Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-01-30T15:40:47.651Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-03-14T15:13:53.568Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-02-06T13:56:13.712Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-05-15T18:08:40.871Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-11-27T19:56:18.989Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-10-10T09:15:30.056Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-09-17T15:06:14.799Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-12T14:17:44.423Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-10-27T17:32:07.490Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-10-15T14:36:11.625Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-02-28T19:23:03.996Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-16T09:07:12.935Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-05T12:17:02.350Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-10-17T17:11:58.133Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-01-13T18:01:09.278Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-15T17:02:06.578Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-25T11:26:38.223Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-04-29T12:07:29.965Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-03-15T16:41:12.788Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-08T12:23:01.386Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-10-01T15:03:22.077Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-12-21T16:04:22.319Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-02-24T15:45:14.626Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-03-01T09:41:02.135Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-07-31T18:36:48.410Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-09-01T13:44:43.562Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-07-20T19:29:34.500Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-12-21T09:15:41.844Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-01-07T17:55:58.409Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-09-03T15:29:49.161Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-08-20T11:47:54.038Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-06-26T14:48:14.160Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-07-02T17:58:09.904Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-08-29T13:57:28.746Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-02-28T19:10:42.463Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-01-31T18:04:30.213Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-09-26T10:22:03.277Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-08-13T13:29:13.659Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-04-07T10:14:58.365Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-02-18T12:13:10.733Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-09-02T16:54:56.332Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-08-20T17:32:04.285Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-03-24T15:02:00.280Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-10-18T12:52:18.027Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-03T16:07:26.874Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-10-21T11:42:41.597Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-01-23T15:07:08.754Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-07-29T17:53:36.215Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-06-06T16:48:38.718Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-30T12:34:09.330Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-09-25T18:03:57.037Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-07-04T13:05:08.750Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-08-28T17:46:19.185Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-03-21T14:06:39.540Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-12-29T19:55:06.492Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-08-01T10:01:13.005Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-10-22T09:54:14.159Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-07-17T11:56:02.637Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-06-15T09:09:13.966Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-05-25T11:16:01.629Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-08-28T10:34:43.754Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-12-29T14:29:03.811Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-04-28T19:57:11.323Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-05-14T12:19:09.844Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-07-27T18:22:04.705Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-01-30T11:07:55.554Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-11-15T10:22:37.837Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-03-17T17:41:12.512Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-01-02T14:10:08.706Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-05-26T11:37:33.205Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-11-13T11:53:15.682Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-09-27T09:18:05.754Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-06-24T12:32:00.024Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-06-30T16:25:06.322Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-26T19:54:28.614Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-09-12T15:17:30.648Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-02-27T15:09:26.652Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-10-22T13:36:27.820Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-06-03T16:58:45.487Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-05-19T10:45:48.340Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-11T17:30:58.429Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-12-23T10:24:49.214Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-24T12:58:27.549Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-02-02T19:44:41.246Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-10-12T11:08:34.160Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-07-06T18:33:28.541Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-01-06T16:55:12.714Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-01-28T18:57:33.044Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-25T19:05:01.724Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-14T13:21:05.526Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-12-04T10:59:54.546Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-08T15:18:20.025Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-01-11T12:35:08.872Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-09-02T10:20:25.496Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-08-31T15:47:12.569Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-12-31T19:29:27.453Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-11-13T14:49:09.637Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-03-15T13:39:59.487Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-11-12T11:18:26.808Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-03-04T14:04:57.001Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-02-08T13:48:54.244Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-12-25T17:32:35.040Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-06-19T19:15:16.366Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-01-18T14:48:01.115Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-10-02T15:29:15.059Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-10-07T15:40:58.314Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-04-17T10:51:26.076Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-03-17T17:44:42.042Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-12T11:19:40.224Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-05-10T09:51:26.127Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-02-26T13:32:03.338Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-09-16T12:19:17.939Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-04-12T09:32:53.173Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-04-29T15:30:58.021Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-07-31T18:40:44.155Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-09-11T13:29:28.509Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-20T18:30:11.537Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-08-03T18:32:51.382Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-04-26T13:35:45.304Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-06-07T19:32:48.781Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-06-29T17:23:36.681Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-08-07T18:02:02.797Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-01-25T13:54:11.781Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-03-02T13:54:42.801Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-01T10:47:24.848Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-08-18T17:38:39.618Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-04-17T16:52:57.689Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-03-20T15:18:08.883Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-08-17T13:52:16.586Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-09-15T10:58:47.125Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-03T10:32:04.980Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-02-05T12:52:07.277Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-01-24T17:23:43.273Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-03-13T09:46:53.027Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-07-13T17:23:45.645Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-06-18T19:01:40.635Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-03-03T19:03:48.979Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-03-06T09:17:35.518Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-08-01T10:19:23.252Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-01-02T12:44:55.255Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-08-01T15:22:58.114Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-01-17T18:23:27.018Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-11-17T11:39:07.314Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-30T18:53:35.026Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-04-08T19:45:40.802Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-02-10T16:15:06.958Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-07-26T14:01:49.440Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-01-31T10:10:13.289Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-08-29T19:22:42.455Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-01-17T17:33:42.332Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-07-01T13:57:20.859Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-09-27T15:39:01.678Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-02-11T10:18:52.534Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-03-01T13:35:16.937Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-06-27T17:29:13.256Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-04-24T19:31:03.163Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-11-07T09:07:50.216Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-06T10:27:33.695Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-14T09:31:32.779Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-25T16:59:56.281Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-11-17T10:22:25.805Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-04-29T11:18:00.110Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-05-27T14:56:41.767Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-26T15:44:04.013Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-01-18T13:47:13.735Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-01-23T17:07:45.272Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-26T10:19:51.770Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-01-11T15:42:36.758Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-02-10T10:02:56.605Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-10-22T12:47:18.757Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-29T10:53:52.863Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-07-09T10:59:48.175Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-02-19T18:40:30.157Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-12-11T14:26:43.281Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-07-08T10:23:28.014Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-09-13T11:15:59.433Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-02-01T15:02:59.530Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-02-22T15:03:25.807Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-10-21T14:37:46.166Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-09T09:52:36.586Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-08-13T09:42:43.373Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-08-20T13:53:07.967Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-08-07T10:29:37.965Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-08-20T13:54:09.665Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-02-09T12:57:33.089Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-10-31T13:33:05.860Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-10-21T18:41:53.554Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-07-03T14:01:03.972Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-05-06T15:37:52.744Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-04-16T10:25:02.961Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-08-09T13:05:12.425Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-06-11T12:43:12.987Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-02-01T10:23:07.254Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-03-04T16:12:54.876Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-10-17T15:05:56.201Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-01-22T12:06:29.536Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-02-01T19:15:11.316Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-05-24T16:36:18.651Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-10-11T09:06:49.000Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-08-30T16:05:32.601Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-08-02T12:02:42.072Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-02-14T14:44:02.383Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-05-14T12:47:11.336Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-12-14T19:55:51.903Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-01-03T19:38:27.013Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-12-06T14:19:08.626Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-04-16T19:42:14.621Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-04-22T16:14:48.130Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-12-03T16:46:29.267Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-08-15T19:33:50.411Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-11-20T09:19:51.568Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-29T17:04:40.232Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-12-09T18:26:35.294Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-07-12T17:21:20.953Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-12-23T14:26:01.075Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-09-11T14:47:19.940Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-05-31T16:22:54.951Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-18T15:34:29.469Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-01-20T14:31:41.100Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-08-29T19:30:21.601Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-07-14T13:27:42.330Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-01-11T13:40:16.334Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-11-09T16:28:38.444Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-10-03T11:15:43.769Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-03-30T16:54:26.279Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-02-02T15:26:12.058Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-27T13:47:36.328Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-12-03T19:02:05.590Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-05T18:57:49.606Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-04T14:32:35.984Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-01-29T10:13:48.661Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-01-13T14:14:17.826Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-11-18T19:26:56.519Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-04-01T13:19:20.216Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-05-14T13:30:05.914Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-05-31T16:52:18.595Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-03-03T09:28:06.014Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-03-14T12:52:00.520Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-11T16:50:58.761Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-16T14:13:02.749Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-12-10T19:21:19.945Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-06-29T13:45:22.574Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-02-20T11:17:44.660Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-02-22T11:56:38.718Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-07-20T11:56:13.334Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-07-05T14:18:08.349Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-19T19:17:48.201Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-02-15T17:54:35.128Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-01-16T17:40:05.689Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-03-27T10:33:25.619Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-07-08T19:03:30.004Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-10-20T18:30:30.193Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-10-10T09:10:10.757Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-04-14T18:12:46.859Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-10-23T10:07:48.087Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-09-03T19:36:13.136Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-04-22T11:24:44.250Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-05T12:52:22.286Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-02-20T11:16:10.818Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-10-11T19:21:54.399Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-10-15T10:03:43.932Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-07-21T12:51:38.967Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-01-22T18:32:03.359Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-07-05T10:04:21.388Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-01-05T09:08:12.940Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-07-30T14:44:43.908Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-07-14T16:34:38.395Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-06-27T11:34:34.918Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-04-09T17:30:01.612Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-10-30T18:20:33.838Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-03-14T14:46:47.438Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-21T12:33:25.944Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-08-01T11:41:57.510Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-09-14T11:39:08.488Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-07-26T12:40:17.227Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-04-13T19:23:14.501Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-10-22T13:38:52.223Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-05-30T13:36:06.595Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-12-28T10:13:48.092Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-02-03T16:55:13.159Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-09-25T14:38:43.085Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-04-04T12:14:29.810Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-01-06T11:09:40.068Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-02-19T15:37:02.082Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-18T15:52:17.757Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-04-09T13:35:25.183Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-01-17T18:41:58.416Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-05-26T15:44:31.973Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-03-03T12:26:03.683Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-10-07T17:58:25.932Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-04-01T17:16:31.294Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-11-08T15:48:38.607Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-08-06T18:25:14.966Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-04-02T19:35:37.886Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-09-11T18:13:38.991Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-27T19:58:14.411Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-04-19T17:56:10.511Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-04-30T16:49:52.936Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-09T19:30:46.335Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-10-23T17:56:51.426Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-11-03T15:07:14.598Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-09-29T15:23:33.182Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-01-30T16:39:06.642Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-02-22T18:25:06.935Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-12T14:19:39.622Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-07-10T14:00:49.631Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-11-25T12:21:10.132Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-08-11T12:32:31.638Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-05-23T09:17:02.256Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-11-21T12:13:28.878Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-05-05T10:39:27.375Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-09-30T17:55:58.644Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-26T16:11:59.423Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-09-13T11:42:48.310Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-02-09T13:17:42.255Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-08-26T13:51:37.639Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-06-13T18:50:56.217Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-07-05T14:17:03.230Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-08-04T18:34:39.852Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-01-09T19:16:56.395Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-07-19T14:53:55.088Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-03-11T19:15:53.337Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-06-15T18:53:29.555Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-17T16:22:22.394Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-04-02T19:42:08.175Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-12-26T17:26:46.273Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-07-07T17:08:30.338Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-10T12:16:00.508Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-10-03T14:23:27.179Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-09-05T13:41:14.618Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-02-16T14:02:00.002Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-10-24T18:41:52.633Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-09-03T19:50:43.915Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-08-31T10:13:18.229Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-01-29T16:18:38.663Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-10-08T14:00:24.192Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-08-02T19:41:40.483Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-03-04T10:20:37.450Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-05-20T14:15:06.886Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-12-12T14:36:03.632Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-07-25T13:54:30.760Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-10-14T10:32:09.196Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-21T18:13:13.335Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-12-26T11:14:45.084Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-01-30T17:12:43.853Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-09-21T16:38:59.704Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-02-01T15:29:18.295Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-04-01T11:24:42.136Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-11T12:24:02.371Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-07T14:53:45.499Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-02-20T09:18:43.192Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-10-03T09:20:44.621Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-03-08T12:23:38.941Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-12-24T11:09:21.489Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-19T10:48:13.152Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-01T11:13:34.490Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-02-28T10:59:51.223Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-11-14T18:53:56.029Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-05-08T16:14:34.159Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-08-25T14:46:45.075Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-01-01T11:25:35.515Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-09-11T17:47:10.473Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-11-19T16:20:42.300Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-13T11:45:11.229Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-05-06T12:11:30.374Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-07-28T15:44:02.096Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-11-07T14:18:32.119Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-11-02T19:06:19.023Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-16T19:15:32.039Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-02-09T15:05:14.626Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-06-11T10:35:15.963Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-01-08T17:23:12.074Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-05-05T18:25:29.612Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-10-09T17:19:40.019Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-02-26T10:09:17.070Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-01-27T09:39:22.764Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-01-14T09:19:55.993Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-08-07T12:07:05.594Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-02-28T11:00:15.919Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-01-24T17:58:47.314Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-11-10T11:23:23.742Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-01-11T10:06:39.388Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-12-06T14:39:35.450Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-02-04T11:17:19.648Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-09-01T12:46:10.428Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-09-30T13:06:54.285Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-12-28T09:13:03.100Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-01-07T19:44:10.598Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-26T16:24:50.288Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-01-23T18:23:19.652Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-04-25T11:47:23.879Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-02-21T16:04:59.885Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-11-09T19:01:02.515Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-01-27T09:06:55.168Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-10-15T14:52:47.254Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-05-13T15:47:06.646Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-08-13T18:06:26.710Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-09-22T11:22:28.576Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-07-23T09:43:22.544Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-03-11T18:09:36.842Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-04-15T16:37:52.496Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-03-05T10:17:59.892Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-12-13T16:58:59.938Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-02-24T14:27:23.046Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-10-07T17:38:49.522Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-11-02T15:47:03.169Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-10-17T09:43:43.845Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-10-25T19:48:01.027Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-01-08T15:44:05.824Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-27T12:00:31.587Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-09-15T15:53:48.174Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-07-22T09:28:34.143Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-01-16T19:52:31.780Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-01-03T19:24:53.329Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-06-18T09:04:14.685Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-10-09T10:23:02.497Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-12-31T09:44:15.177Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-07-29T15:10:27.662Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-03-25T11:27:15.102Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-08-26T12:10:13.331Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-12T13:53:09.793Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-10-30T16:41:54.894Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-11-25T12:25:08.775Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-26T16:47:33.402Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-10-10T10:59:27.907Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-07-05T11:46:10.091Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-02-11T13:16:26.875Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-12-08T16:11:42.208Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-10-23T16:49:11.233Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-04-21T10:28:23.799Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-12-21T14:16:11.675Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-02-10T16:04:42.523Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-11-17T17:31:56.331Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-07-31T10:34:22.425Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-01-04T11:17:04.060Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-04-03T19:21:12.273Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-10-27T17:34:36.113Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-04-21T17:17:17.685Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-10-13T09:45:40.294Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-23T10:43:43.089Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-06-11T13:31:39.020Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-01-17T13:25:44.286Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-03-01T16:39:55.045Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-23T15:42:55.524Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-11T15:54:26.093Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-12-25T19:14:07.180Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-08-11T12:27:24.329Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-07-19T19:08:20.162Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-03-15T12:55:03.700Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-09-04T19:02:13.493Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-07-15T17:53:49.604Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-10-25T11:32:36.964Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-03-16T11:42:12.520Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-09-17T14:17:47.993Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-12-16T13:35:37.747Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-11-21T14:14:32.351Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-08-14T14:25:11.632Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-11-18T18:04:43.820Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-03-19T11:04:17.921Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-15T19:06:15.822Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-26T10:00:54.528Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-07-23T12:38:57.196Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-07-11T15:06:04.174Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-10-02T18:38:53.109Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-05-18T15:56:44.053Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-05-07T17:29:23.749Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-12-26T16:29:00.583Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-11-21T11:23:22.525Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-22T10:54:44.021Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-03-14T17:48:50.590Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-04-04T13:50:39.343Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-12-06T09:12:39.368Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-10T16:22:41.538Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-03-10T12:58:00.138Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-12-05T17:44:14.470Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-05-25T11:02:44.929Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-02-21T14:20:40.090Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-08-24T14:18:09.877Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-10-04T12:12:54.593Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-04-30T12:09:49.235Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-29T18:42:19.493Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-08-07T09:45:11.178Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-06-16T19:05:20.253Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-10-04T16:51:39.424Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-16T15:50:59.078Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-12-21T16:00:21.460Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-01-26T16:33:51.319Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-01-25T15:17:42.745Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-07-02T17:44:25.891Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-04-09T18:10:37.198Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-10-09T14:32:22.578Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-05-11T13:40:40.461Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-08-01T16:18:57.048Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-09-05T12:03:49.920Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-12-12T17:29:23.750Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-12-19T19:50:53.064Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-20T09:33:07.746Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-10T14:13:15.824Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-02-25T17:57:00.322Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-06-13T14:38:15.338Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-10-08T09:35:19.663Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-10-13T11:41:30.414Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-01-12T18:28:37.860Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-10-30T14:37:49.106Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-18T11:02:05.367Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-04-11T13:01:57.703Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-01-15T18:41:47.298Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-09-22T18:21:23.967Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-05-10T15:36:22.236Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-09-09T19:01:36.964Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-03-07T15:28:31.912Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-01-16T12:08:53.950Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-10-29T11:38:58.326Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-11-11T10:17:18.302Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-11-21T18:03:46.169Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-25T12:33:18.807Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-07-09T19:13:59.471Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-09-25T12:12:36.285Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-03T10:38:02.058Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-04-05T14:43:33.320Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-05-28T14:06:18.430Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-02T19:13:32.283Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-12T11:26:54.314Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-07-16T17:02:46.664Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-05-27T18:54:54.768Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-07-15T19:19:19.835Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-03-14T13:18:28.023Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-23T17:00:47.749Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-09-02T10:32:06.333Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-04-04T16:24:42.640Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-02-18T11:10:44.959Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-06-02T17:20:01.229Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-01-26T09:08:08.469Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-03-02T09:28:57.565Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-05-22T19:46:49.194Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-24T09:19:02.186Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-10-07T15:03:29.704Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-04-13T15:39:29.399Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-05-20T16:55:48.786Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-10-12T15:12:02.341Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-05-03T12:05:19.976Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-09-06T17:19:42.729Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-04-27T19:57:16.935Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-02-12T18:51:29.775Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-01-09T13:14:06.516Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-28T10:50:21.533Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-07-06T11:56:22.171Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-07-05T13:22:40.704Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-10-12T10:22:26.933Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-06-13T17:05:48.889Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-05-01T15:10:20.825Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-12-30T09:19:04.846Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-22T19:10:06.358Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-02-28T15:18:54.388Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-11-20T12:18:53.125Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-21T17:26:29.264Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-12-11T18:44:31.119Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-06-05T13:13:46.066Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-07-14T15:52:02.176Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-12-25T19:17:58.528Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-08-10T17:04:41.672Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-01-19T17:37:23.392Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-08-02T12:33:12.637Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-11-05T10:54:05.824Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-12-07T11:50:04.611Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-04-01T13:24:19.786Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-04-02T18:39:11.667Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-08-12T15:10:13.809Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-02-22T17:12:49.093Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-04-12T10:33:04.742Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-12-23T11:04:46.848Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-09-25T09:17:23.703Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-05-12T19:16:55.001Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-03-04T14:22:08.265Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-05-18T16:55:12.171Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-30T15:35:32.702Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-05-09T12:17:40.699Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-10-24T17:23:37.913Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-04-29T19:45:35.422Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-12-25T17:01:10.205Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-21T19:13:30.105Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-05-04T17:26:09.428Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-05-18T19:45:31.849Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-06-27T19:53:24.252Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-20T12:34:33.484Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-03-21T09:32:36.099Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-01-30T14:11:51.479Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-02-01T12:34:33.388Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-10-19T12:01:14.013Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-08-15T16:57:24.618Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-10-26T15:29:53.666Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-04-20T19:46:30.011Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-02-11T14:06:55.353Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-12-21T11:21:31.078Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-12-20T15:16:12.675Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-02T17:30:22.211Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-10-28T14:37:57.214Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-11-18T16:17:00.174Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-05-21T13:20:12.293Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-04-23T12:15:10.682Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-02-15T14:36:35.608Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-04-26T09:54:15.972Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-02-20T18:01:33.762Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-02-22T15:06:18.758Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-02-09T19:54:26.338Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-11-16T12:36:59.423Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-02-22T19:20:48.064Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-22T18:21:55.524Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-26T09:39:04.530Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-10-09T19:55:17.090Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-05-10T14:31:30.148Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-07-16T16:39:00.956Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-12T12:19:30.039Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-07-27T18:59:03.148Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-01-28T16:14:51.623Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-04-06T16:09:16.228Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-02-02T10:25:02.505Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-05-24T12:11:32.670Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-01-01T11:25:36.660Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-03-11T13:07:18.831Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-03-02T19:10:58.894Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-02-26T14:24:40.959Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-09T13:18:30.166Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-11-03T13:13:07.047Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-11-24T11:46:37.013Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-10-09T15:10:29.775Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-11T12:20:20.305Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-10-04T19:45:30.030Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-12-06T11:51:20.619Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-06-18T17:20:24.800Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-09-04T11:32:03.716Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-10-06T17:01:42.334Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-03-30T11:08:09.272Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-10-11T11:23:37.157Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-04-12T11:12:37.153Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-12-26T14:31:41.873Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-07-31T18:09:40.471Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-04-10T16:20:17.111Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-10-13T09:39:11.223Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-03T13:54:24.071Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-11-20T12:54:53.490Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-07-31T12:06:14.621Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-10-11T12:24:52.361Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-05-23T10:53:34.693Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-10-27T14:40:30.583Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-10T10:14:58.298Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-30T16:57:51.820Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-04T17:01:56.518Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-04-20T14:51:13.232Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-06T09:54:10.693Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-10-10T18:39:08.990Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-31T16:11:43.463Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-01T14:31:40.514Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-04-19T11:18:50.767Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-12-24T10:23:16.241Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-05-26T10:32:34.141Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-03-19T09:51:03.813Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-07-03T13:04:54.050Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-11-13T18:55:16.828Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-01-10T14:17:55.953Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-07T09:16:10.310Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-02-03T18:20:11.515Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-08-10T15:31:37.651Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-01T19:09:19.922Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-11-13T17:00:07.661Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-08-13T13:52:43.657Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-05-28T19:39:53.180Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-02T11:35:10.598Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-09-16T15:27:13.167Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-13T16:15:19.906Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-03-23T19:16:49.863Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-18T15:37:05.884Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-06-11T19:27:20.353Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-08-21T19:30:56.414Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-11-20T16:12:23.080Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-05-20T15:22:16.026Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-03-15T13:14:42.848Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-04-04T17:03:18.584Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-04-04T11:38:51.534Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-09-26T12:37:36.616Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-04-08T11:46:00.462Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-06-22T13:14:09.429Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-06T17:14:07.271Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-12-17T11:35:21.093Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-08-21T12:07:06.934Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-02-15T15:11:26.984Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-03-04T18:29:20.830Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-04-29T10:06:14.339Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-10-05T13:28:00.292Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-10-21T14:15:45.350Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-07-20T11:58:39.638Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-04-13T18:21:34.198Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-10-01T11:24:14.558Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-07-24T09:26:17.648Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-10-25T11:40:17.443Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-09-07T11:09:51.209Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-07-27T19:49:06.729Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-06-01T17:10:25.558Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-18T18:05:03.384Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-02-17T19:34:26.316Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-03-03T15:04:46.873Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-01-28T14:30:26.166Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-03-14T16:04:59.521Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-06-21T09:13:45.829Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-10-26T10:28:12.418Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-06-10T17:45:26.487Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-05-11T11:49:20.417Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-17T15:48:05.744Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-09-20T16:04:51.510Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-07-28T11:52:39.359Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-07-23T15:27:48.284Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-03-17T13:21:25.227Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-02-16T09:45:25.506Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-05-24T09:17:58.280Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-07-28T18:54:05.815Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-12-13T19:00:40.090Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-08-01T10:57:06.837Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-08-04T12:49:44.592Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-01-15T16:51:24.370Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-02-25T18:06:28.250Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-12-03T12:02:05.926Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-03-11T13:12:10.551Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-30T14:47:07.080Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-08-31T16:33:35.527Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-03-04T09:17:28.751Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-01-10T12:29:10.857Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-10-29T17:28:47.352Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-05-02T09:27:06.152Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-08-24T18:28:30.704Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-11-11T16:55:42.120Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-05-21T16:32:58.514Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-05-23T18:41:49.186Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-06-13T10:54:21.282Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-04-07T10:18:12.317Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-10-12T15:51:28.102Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-27T15:35:25.334Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-07-15T14:23:59.297Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-04-08T11:20:12.168Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-07-07T17:57:23.570Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-06-10T14:04:26.377Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-01-21T18:20:19.885Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-09-05T10:27:21.339Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-02-05T11:45:49.937Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-10-20T09:37:58.810Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-14T11:13:33.425Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-09-30T14:45:24.738Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-08-21T17:12:25.296Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-11-12T19:14:40.653Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-03-22T16:53:58.584Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-09-02T15:31:56.550Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-08-16T14:18:07.240Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-16T09:46:54.381Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-01-08T16:10:09.236Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-10-13T11:57:43.883Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-12-13T17:31:38.627Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-12-18T19:43:53.611Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-11-30T19:17:16.736Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-07-27T11:35:02.170Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-02-19T18:50:48.845Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-04T15:51:46.354Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-08-27T10:47:59.353Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-11-26T14:03:18.922Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-04-16T10:38:37.547Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-02-07T12:51:31.521Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-10-14T18:35:16.893Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-01-09T11:28:35.467Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-10-13T13:30:28.533Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-03-12T12:37:52.214Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-05-06T10:33:39.041Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-10-02T19:26:31.905Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-10-19T10:14:12.687Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-02-10T16:42:03.819Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-10-12T15:34:00.973Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-06-16T15:31:28.518Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-28T10:26:50.083Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-16T10:27:19.174Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-08-16T18:02:27.644Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-23T17:46:56.542Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-10-28T11:23:05.872Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-03-05T19:33:09.365Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-12-25T16:55:08.173Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-03-18T11:22:22.859Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-05-19T15:07:39.860Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-07-19T15:49:14.056Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-22T19:48:33.875Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-12-10T17:26:18.407Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-10-30T15:41:38.884Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-10-31T11:34:26.603Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-10-22T17:22:06.554Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-03-25T09:37:01.601Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-12-15T19:02:07.931Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-03-21T10:25:17.894Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-05-23T16:08:08.539Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-07-15T09:08:46.335Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-06-19T17:02:54.967Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-08-31T18:01:43.333Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-06-12T19:44:22.556Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-27T16:53:53.230Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-02-28T10:34:52.422Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-01-11T17:41:42.167Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-15T12:07:40.092Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-06T11:45:15.211Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-04-19T16:56:38.690Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-28T18:57:32.105Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-09-09T13:37:09.335Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-14T10:45:36.729Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-03-03T12:04:00.332Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-07T17:05:16.747Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-08-03T19:13:32.646Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-02-26T11:59:25.677Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-09-12T11:07:11.321Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-14T18:56:42.675Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-08-31T11:26:47.543Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-04-28T13:07:14.676Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-12-12T14:56:36.709Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-26T17:35:55.355Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-04-13T18:37:05.110Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-05-18T15:22:15.821Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-10-22T15:40:21.329Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-08-08T17:27:08.589Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-05-24T11:40:51.309Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-04-13T19:30:07.558Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-05-05T14:09:45.019Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-01-28T16:34:54.825Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-01-05T16:06:22.217Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-10-15T17:19:06.232Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-08-06T18:31:27.550Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-09-08T10:06:22.007Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-06-03T12:02:31.356Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-09-18T18:01:56.291Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-09-28T09:40:44.036Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-12-06T15:26:59.154Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-12-06T12:09:03.737Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-17T11:44:27.949Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-11-15T10:37:03.606Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-07-04T15:09:53.488Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-09-24T14:45:34.864Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-12-28T19:19:26.222Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-05-11T11:25:07.059Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-03-25T13:53:14.862Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-06-15T16:35:08.668Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-25T17:25:36.187Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-02-03T10:28:16.818Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-12-30T11:13:08.256Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-02-08T15:10:52.466Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-06-10T14:52:44.854Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-13T15:27:26.828Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-01-31T17:35:50.359Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-06-26T12:48:53.158Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-12-29T10:41:07.596Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-09-12T10:58:32.323Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-09T17:50:52.573Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-08-05T14:48:29.321Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-05-27T12:57:20.508Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-08-16T17:51:21.545Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-02-11T16:34:18.222Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-02-27T19:11:00.557Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-09-08T17:17:01.465Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-05-12T12:12:05.100Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-02-04T19:18:20.853Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-14T15:29:15.288Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-04-01T13:38:39.487Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-04-28T16:21:10.048Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-06-28T13:10:20.957Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-17T15:52:00.487Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-07-04T15:31:23.169Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-10-29T18:34:10.599Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-12-06T10:35:09.700Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-11-26T19:48:23.565Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-06-17T12:05:16.980Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-03-04T15:06:45.790Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-11-19T16:54:44.605Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-06-03T13:46:14.609Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-04-10T12:28:29.692Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-08-26T12:04:33.444Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-06T15:37:27.737Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-07-08T17:48:45.062Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-03-12T12:13:04.322Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-11-26T13:19:42.532Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-09-21T09:57:01.828Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-03-02T18:52:16.347Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-01-03T15:48:33.036Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-09-15T11:03:59.708Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-05-01T16:11:33.498Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-10-02T18:52:50.555Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-12-15T14:41:57.442Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-07-04T17:28:03.604Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-02-05T15:26:11.318Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-02-08T12:58:24.506Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-02-12T11:26:20.314Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-09-06T18:01:08.274Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-28T13:58:45.358Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-01-25T16:12:23.033Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-01-17T14:52:53.712Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-10-24T18:56:16.408Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-05-24T17:47:16.408Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-28T15:34:27.442Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-03-17T14:41:21.291Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-10-31T15:41:38.542Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-07-18T17:07:49.682Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-10-27T10:45:57.682Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-06-15T19:09:35.398Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-03-19T13:13:01.916Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-04-17T19:30:55.815Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-12-04T17:51:43.058Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-11-16T13:35:19.544Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-11-15T19:40:20.405Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-08-10T17:32:23.277Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-11T09:40:15.495Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-04-05T18:11:30.109Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-23T17:13:44.037Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-08-16T09:26:31.177Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-08-30T17:28:07.681Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-12-20T17:20:06.966Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-05-13T13:45:50.698Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-01-12T11:21:01.480Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-03-05T14:16:37.278Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-07-24T17:56:48.306Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-08-02T16:41:48.422Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-09-08T11:49:03.337Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-07-16T12:21:40.761Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-04-21T14:10:34.807Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-08-23T12:45:53.779Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-07-13T11:18:53.496Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-03-30T17:50:21.919Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-12-23T10:13:16.400Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-05-27T14:45:02.705Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-12-22T17:34:39.192Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-03-25T17:58:51.406Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-03-31T09:51:26.861Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-10-12T15:08:05.107Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-04-30T18:33:17.136Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-03-31T17:08:58.932Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-01-03T09:05:47.441Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-03-23T09:45:48.852Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-02-08T13:28:29.356Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-04-24T09:30:51.690Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-04-15T10:56:34.866Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-12-28T18:19:26.910Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-02-01T12:57:11.226Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-08-11T13:51:03.146Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-05-30T19:19:34.449Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-01-12T10:15:58.309Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-05-01T19:33:41.070Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-11-12T12:40:13.680Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-02-08T09:07:18.465Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-02-01T09:57:13.576Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-02-01T11:57:10.958Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-09-12T14:31:38.362Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-23T16:33:58.113Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-08-24T15:42:31.720Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-17T19:18:57.552Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-07-14T14:50:44.434Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-09-12T15:51:40.590Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-07-23T15:30:05.682Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-02-28T11:21:11.678Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-05-24T15:15:31.397Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-04-13T16:22:15.395Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-03-10T11:41:39.840Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-03-03T15:56:01.725Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-03-01T11:31:24.987Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-08-31T16:32:40.318Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-10-28T13:07:25.700Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-01-31T09:09:29.617Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-01-04T12:11:40.968Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-08-23T12:00:05.462Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-04-05T19:54:48.153Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-10-09T11:13:56.396Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-06-14T15:15:57.103Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-01-27T14:40:19.918Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-05-06T11:43:15.058Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-11-06T17:53:16.944Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-12-30T15:39:52.953Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-07-19T14:36:17.545Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-27T16:43:51.381Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-07-25T10:46:36.418Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-23T11:13:59.473Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-07-27T10:30:28.669Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-10-04T12:13:40.753Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-03-20T14:40:53.186Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-22T19:02:29.040Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-08-02T09:59:40.710Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-07-03T12:29:13.236Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-12-31T09:49:34.047Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-08-15T15:23:01.781Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-09-25T09:37:25.441Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-09-13T17:21:35.613Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-10-28T13:59:52.950Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-01-05T18:22:04.916Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-03-16T13:44:41.932Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-09-14T11:56:19.839Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-03-20T13:08:15.813Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-08-03T17:30:52.319Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-01-13T18:32:35.663Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-02-14T10:37:03.333Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-12-06T16:20:44.707Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-05-28T17:07:10.938Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-09-12T09:25:35.923Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-05-06T15:13:24.611Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-10-11T10:47:03.662Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-06-25T13:03:22.105Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-09-26T14:33:17.357Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-08-11T15:07:34.984Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-04-15T14:59:22.274Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-07-07T17:06:14.677Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-11-13T14:46:45.556Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-18T12:40:20.764Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-08-29T09:37:53.145Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-06-04T16:47:21.292Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-02-11T10:29:40.912Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-05T12:39:30.193Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-01-02T12:27:26.653Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-01-29T18:27:07.023Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-25T18:10:28.377Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-04-16T14:26:45.775Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-02T14:02:33.704Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-09-30T15:32:11.683Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-12-18T18:16:58.678Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-02-17T16:11:06.694Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-27T12:31:16.673Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-12-15T13:25:16.226Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-03-20T09:22:00.480Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-11-23T16:38:59.304Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-01T15:35:40.616Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-11-09T19:29:49.891Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-11-27T10:57:23.849Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-05T15:17:19.919Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-05-14T18:58:19.276Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-30T16:41:40.718Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-01-14T10:41:35.062Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-12-07T14:05:57.025Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-08-28T14:08:59.601Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-12-01T10:57:58.199Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-10-19T13:07:02.393Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-09-04T14:48:45.005Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-08-09T11:28:21.414Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-22T19:02:29.450Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-12-12T12:05:27.530Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-05-27T18:41:15.302Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-03T11:52:39.506Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-11-20T10:02:30.694Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-11-12T12:58:51.636Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-04-25T17:43:53.879Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-11-14T16:34:44.408Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-09-25T18:07:58.132Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-05-26T10:53:55.083Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-05-23T10:23:43.072Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-08T14:27:50.021Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-09-06T09:11:05.943Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-11-13T19:05:02.972Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-10-24T12:18:58.663Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-04-06T17:35:27.730Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-16T14:11:19.133Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-05-25T17:20:39.520Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-08T14:33:42.866Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-06-13T10:02:04.242Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-10-09T17:50:12.753Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-05-25T18:41:14.458Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-10T09:25:37.512Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-06-29T10:22:50.172Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-18T16:50:58.957Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-04-25T14:25:27.713Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-07-18T17:56:14.412Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-03-04T19:47:15.197Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-08-17T11:38:12.643Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-08-02T12:42:07.713Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-02-05T09:11:55.418Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-12-01T17:13:21.638Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-01-24T10:51:05.131Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-01-22T14:26:03.129Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-02-01T10:14:24.151Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-09-26T09:01:39.031Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-02-22T18:21:56.988Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-11-28T18:05:01.639Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-02T10:46:03.972Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-07-16T10:35:41.885Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-04-11T11:16:36.920Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-05-16T10:27:58.573Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-28T14:28:12.000Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-29T17:38:01.306Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-06-09T17:36:37.496Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-10-08T11:37:58.068Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-25T16:59:06.658Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-06-04T16:19:24.497Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-01-19T16:49:06.969Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-06-06T17:49:46.486Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-06-07T19:28:49.248Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-27T17:38:28.152Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-11T11:38:28.489Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-07-30T09:56:15.734Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-29T19:08:09.659Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-09-21T11:20:13.504Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-06-25T13:25:00.330Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-09-15T13:29:48.572Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-11-06T14:37:56.402Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-07-11T14:28:19.677Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-11-14T19:37:13.145Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-25T10:01:18.972Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-09-14T09:46:27.211Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-04-27T15:50:57.976Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-11-16T19:46:15.948Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-02-16T19:27:34.130Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-01-14T11:04:21.481Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-12-21T09:49:12.727Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-04-03T15:42:44.424Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-24T16:34:21.813Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-11-09T19:26:54.693Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-18T11:59:55.503Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-07-12T12:26:24.146Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-21T13:58:47.402Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-06-16T18:00:00.724Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-10T11:03:03.583Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-07-21T16:29:36.521Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-11-19T13:13:41.419Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-01-30T16:47:20.392Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-05-27T19:26:56.941Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-07-26T11:32:31.768Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-08-23T18:50:44.358Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-07-22T13:44:39.057Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-06-21T14:08:39.530Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-09T15:23:14.025Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-06-02T16:09:24.596Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-06-17T12:26:35.570Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-06-18T16:57:12.102Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-04-26T11:33:42.628Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-06-01T09:37:07.275Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-12-31T19:49:46.295Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-04-15T10:10:39.055Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-03-13T13:03:05.412Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-08-01T19:08:55.394Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-05-15T11:57:31.802Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-11-14T09:53:46.150Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-08-27T11:05:21.621Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-06-18T14:10:34.507Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-10-29T17:41:05.987Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-01-15T16:02:50.479Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-06-30T09:13:01.427Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-09-09T14:16:15.080Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-10-05T18:31:48.916Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-03-09T16:40:03.033Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-01-08T16:07:02.528Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-04-11T14:29:24.784Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-06-18T17:34:53.932Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-11-19T19:47:15.436Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-12-03T12:06:09.096Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-01-12T18:48:00.235Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-11T09:07:58.419Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-10-13T18:01:35.600Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-08-27T13:08:20.178Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-04-21T10:22:03.684Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-08-29T19:23:08.766Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-02-08T18:39:53.101Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-10-05T11:17:06.086Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-01-01T14:10:53.960Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-12-21T17:59:55.277Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-03-01T17:05:50.725Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-12-28T14:41:57.939Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-10-08T14:37:02.068Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-13T19:43:16.940Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-06T13:32:11.559Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-01-19T09:04:39.335Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-07-16T13:55:25.036Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-03-26T16:20:05.024Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-10-25T13:17:36.058Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-28T09:47:25.253Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-03-26T19:26:21.923Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-17T18:04:37.604Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-09-24T11:03:41.455Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-06-05T16:13:37.602Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-09T15:23:37.686Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-08-05T12:11:46.195Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-04-10T18:03:37.172Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-03-10T13:15:22.747Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-02-22T12:43:03.123Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-27T17:01:45.584Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-07-05T16:29:05.212Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-04-29T14:31:06.285Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-09-29T17:46:50.685Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-09-03T14:55:30.892Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-05T14:48:13.250Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-07-04T15:25:08.930Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-06-18T12:44:02.705Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-01-30T10:53:41.279Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-06-24T17:13:50.024Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-06-21T13:24:39.704Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-09-22T11:24:47.808Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-10-04T15:05:48.851Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-25T14:12:04.257Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-05-07T12:30:36.348Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-08-22T13:07:15.460Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-04-18T14:10:31.612Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-05-04T18:22:04.870Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-29T19:57:44.903Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-03-08T19:52:05.601Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-06-10T18:06:46.243Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-05-17T09:40:23.081Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-09T16:15:10.103Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-11-23T19:27:45.412Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-04-15T18:23:03.263Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-11-15T10:56:05.360Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-02-07T13:01:40.373Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-09-05T18:08:44.801Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-07-14T16:42:52.922Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-02-06T19:09:20.751Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-27T14:51:28.612Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-10-29T11:40:54.344Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-08-29T10:49:28.877Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-03-02T19:03:18.268Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-31T11:06:24.954Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-07T13:38:16.238Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-10-19T18:25:10.591Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-12T09:07:42.213Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-10-13T17:45:23.917Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-06-28T11:22:21.194Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-10-02T16:37:25.246Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-17T18:41:31.521Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-10-29T18:27:34.445Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-05-08T13:21:33.584Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-12-02T19:49:08.376Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-11-24T17:15:42.838Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-11-02T18:47:43.289Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-10-13T19:25:09.021Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-30T15:35:02.852Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-02-26T19:36:05.686Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-08-29T10:42:40.288Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-29T14:37:38.240Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-12T16:29:54.873Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-04-23T16:59:14.944Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-03-21T19:52:24.687Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-28T10:41:15.470Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-06-21T12:18:19.298Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-11-23T14:56:55.175Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-03T10:59:56.325Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-01-29T19:08:31.623Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-09-29T18:47:18.959Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-25T15:58:53.722Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-06-04T16:45:17.749Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-02-15T12:54:27.075Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-01-03T09:58:21.011Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-09-24T15:31:32.537Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-10-31T19:47:34.400Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-05-03T10:38:06.713Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-02-21T17:04:15.007Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-10-24T14:08:53.442Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-01-14T17:56:21.238Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-07-07T19:48:16.097Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-02-11T11:51:13.957Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-11-04T13:46:27.467Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-10T13:15:47.238Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-01-23T11:27:08.964Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-03-20T16:54:30.494Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-11-01T14:39:12.113Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-08-13T17:04:50.739Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-06-30T14:28:55.446Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-07-06T11:48:38.118Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-04-09T11:19:55.837Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-21T12:15:14.123Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-06-01T10:05:45.559Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-19T18:31:26.784Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-06-12T10:31:02.389Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-10-14T18:20:31.647Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-04-30T15:12:32.325Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-06-18T10:53:23.934Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-23T11:05:10.453Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-06-01T13:02:51.844Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-29T14:50:59.139Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-20T12:48:20.458Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-11-01T09:20:53.341Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-10-19T12:56:36.307Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-26T09:57:08.998Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-01-15T18:00:12.312Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-03-29T18:10:41.366Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-30T14:49:05.727Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-11-15T10:01:03.915Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-09-07T12:11:29.268Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-01-20T11:30:15.432Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-09-11T09:25:18.840Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-07-30T14:29:03.596Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-27T15:44:12.588Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-08-29T15:49:46.383Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-10-01T17:02:57.021Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-02-11T17:20:48.471Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-02-02T16:42:29.751Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-06-22T10:14:53.414Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-01-08T15:17:29.456Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-01-21T12:41:19.200Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-11-23T17:40:42.034Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-11-23T18:58:25.111Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-03-23T15:16:03.636Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-06-09T14:07:57.642Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-05-22T09:29:31.868Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-11-07T18:14:47.556Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-07-23T18:50:00.495Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-12-02T11:18:58.352Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-03-10T14:18:14.503Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-06-27T16:16:07.636Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-06-22T10:17:58.554Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-01T15:15:59.881Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-04-05T10:22:02.527Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-11-05T11:03:21.989Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-06-03T14:23:20.204Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-10-23T09:41:00.832Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-11-21T15:33:30.302Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-12-11T15:07:29.755Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-08-29T09:17:57.489Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-10-11T14:53:52.007Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-08-10T11:22:40.670Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-06-03T11:57:44.878Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-10-04T17:35:47.460Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-01-04T19:05:50.440Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-06-17T18:01:15.736Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-01-30T12:18:45.154Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-02-05T17:06:45.492Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-07-22T10:54:20.152Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-09-29T12:49:58.512Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-18T13:49:14.619Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-05-23T12:21:12.661Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-07-24T14:39:11.715Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-09-11T11:54:46.815Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-11-03T14:00:59.216Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-11-04T17:50:46.862Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-08-19T12:22:11.147Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-01-30T19:24:48.451Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-01-05T19:33:45.442Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-12-15T11:54:45.571Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-08-06T14:46:31.067Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-03-30T09:14:29.216Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-12-15T18:25:01.991Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-06-30T11:25:20.169Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-07-12T13:58:13.790Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-10T12:46:20.071Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-03-25T16:32:48.470Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-05-19T09:47:59.367Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-01-29T19:38:38.177Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-09-04T18:42:34.141Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-20T09:38:46.126Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-09-10T14:30:13.317Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-03-09T12:27:00.400Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-02-05T10:41:04.217Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-05-29T10:21:32.035Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-03-12T15:17:42.831Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-04-07T11:38:09.520Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-02-18T15:38:40.808Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-06-25T09:46:31.957Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-02-20T17:55:47.773Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-05-25T17:36:37.621Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-08-19T16:39:57.353Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-08-23T18:38:35.386Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-05-30T18:55:32.611Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-01-31T11:03:25.164Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-16T16:44:31.762Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-28T19:24:45.210Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-15T12:06:40.266Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-11-10T18:15:26.970Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-10-07T09:38:24.830Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-09T09:33:36.526Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-02-13T17:53:16.442Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-08-25T09:30:58.278Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-04-14T19:57:42.638Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-07T15:01:15.069Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-04-14T13:08:30.491Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-12-02T15:17:29.561Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-12-14T15:54:05.110Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-01-27T10:05:00.823Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-05-17T14:45:00.394Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-09-25T19:06:40.819Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-01-30T09:34:08.268Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-08-09T10:19:34.739Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-10-09T19:41:42.292Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-04-23T13:47:59.421Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-07-24T13:09:24.789Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-05T19:21:58.259Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-08-22T11:50:21.198Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-09-01T18:59:24.870Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-09-26T15:24:50.082Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-11-01T11:39:00.669Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-12-18T15:51:58.608Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-05T15:49:50.825Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-04-27T13:46:06.505Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-31T19:35:48.934Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-04-24T17:06:55.728Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-05-18T13:02:52.505Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-02-18T14:42:48.936Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-06-18T16:19:39.561Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-07T13:47:01.877Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-07-02T16:19:15.973Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-05-06T18:50:55.466Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-10-09T13:05:03.751Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-04-28T11:56:00.351Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-12T18:52:54.689Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-07-30T16:41:01.308Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-03-11T09:25:12.685Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-10-27T14:27:16.049Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-12-16T12:44:16.131Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-05-26T14:24:35.542Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-06-28T12:33:07.748Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-03-22T17:57:08.757Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-02-16T14:42:29.517Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-04-04T10:52:01.583Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-06-10T16:42:29.988Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-11T09:27:24.418Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-05-20T16:17:10.520Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-04-17T19:24:02.388Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-03-29T10:20:27.509Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-10-10T18:43:39.410Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-01-05T09:47:16.326Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-12-09T12:50:26.016Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-08-18T09:57:36.203Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-07-12T16:12:27.071Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-01-18T09:06:35.526Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-03T13:59:41.305Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-18T09:14:33.457Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-11-10T09:51:27.104Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-11-23T19:24:32.515Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-02-15T11:35:02.584Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-10-11T14:27:54.306Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-05-19T10:20:25.973Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-09-16T11:42:46.911Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-04-27T17:30:56.678Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-11-15T09:40:11.209Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-04-09T13:53:41.298Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-11-12T09:24:25.778Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-11-06T18:50:05.057Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-12-26T18:56:21.703Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-03-08T12:37:09.646Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-06-20T10:11:09.596Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-01-04T18:01:20.872Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-05-17T13:40:23.369Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-09-18T17:35:05.720Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-12-24T12:04:01.475Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-01-07T11:42:09.123Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-12T12:23:33.749Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-04-10T14:17:30.687Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-05-16T14:56:45.919Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-12-20T09:45:01.945Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-11-01T17:34:39.180Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-05-19T14:38:28.008Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-10-04T17:02:35.490Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-07-07T14:53:10.614Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-06-07T17:17:20.838Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-02-07T16:25:50.904Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-12-21T18:50:26.685Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-12-11T11:41:50.283Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-09T13:31:25.107Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-05-24T13:30:31.392Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-05-02T19:35:24.274Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-07-03T18:29:00.184Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-11-14T19:20:29.272Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-09-20T13:08:15.983Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-22T14:26:50.343Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-01-22T11:33:45.491Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-07-27T10:27:20.926Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-02-18T17:06:07.547Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-03-11T12:58:38.696Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-08T11:39:38.167Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-12-28T16:12:40.473Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-02-15T12:22:30.101Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-02-23T16:19:49.538Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-07-25T14:40:10.233Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-04-06T11:11:24.086Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-11-12T13:07:13.543Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-10-17T19:30:47.648Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-02-24T18:36:50.665Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-05-28T17:11:40.715Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-05-05T12:31:33.689Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-12-10T11:39:51.549Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-11-14T14:21:12.024Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-12-06T09:59:50.077Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-08-25T19:43:56.329Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-05-12T14:13:58.770Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-02-13T09:16:50.380Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-04-27T15:23:03.825Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-07-15T09:47:54.432Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-03-31T11:46:28.558Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-05-14T15:06:29.105Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-12-07T13:11:33.583Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-08-25T14:52:11.614Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-10-23T15:37:42.166Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-12-20T10:05:35.964Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-12-26T17:36:25.333Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-08-06T16:14:04.534Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-04-09T13:09:55.492Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-08-21T14:26:04.704Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-02-07T13:48:58.805Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-03-21T13:20:02.796Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-02-02T18:02:48.783Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-25T09:30:49.258Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-01-03T10:07:00.781Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-01-19T16:06:50.007Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-01-23T10:46:36.320Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-03-28T15:57:39.155Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-03-07T09:45:44.041Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-08-16T17:51:26.058Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-06-06T10:09:17.839Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-05-10T16:14:19.292Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-05-04T18:54:37.529Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-10-03T16:08:01.833Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-08T16:01:13.416Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-09-17T14:05:28.793Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-11-11T10:53:24.672Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-12-07T16:56:08.878Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-10-05T12:42:33.146Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-01-06T18:19:53.885Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-05-12T12:32:57.392Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-09-09T17:47:00.345Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-03-09T17:52:08.281Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-06-19T10:20:22.468Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-05-28T18:16:53.605Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-08-31T11:53:52.539Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-09-15T13:52:01.225Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-02-10T16:09:21.631Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-11-18T16:43:44.365Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-09-30T10:56:51.566Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-23T10:27:50.840Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-11-17T19:35:11.899Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-06-10T19:05:24.614Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-10-17T15:50:59.767Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-06-24T14:07:25.295Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-04-11T12:51:09.008Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-04-02T13:22:54.464Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-07-20T15:23:51.875Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-07-22T19:41:25.817Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-02-01T11:26:24.560Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-12-14T09:10:53.062Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-01-19T14:14:46.563Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-14T14:59:34.485Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-11-18T14:20:45.596Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-12-16T13:15:56.926Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-11-17T17:58:57.782Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-22T18:23:02.963Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-07-26T16:35:30.374Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-04-15T11:19:40.088Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-04-07T18:05:30.894Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-01-18T16:35:52.739Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-07-19T18:57:35.625Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-25T19:22:34.875Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-12-03T09:59:28.627Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-07-31T16:15:27.417Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-07-28T19:05:24.253Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-01-09T12:10:41.864Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-02-15T09:32:56.129Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-10T16:09:21.541Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-05-04T13:49:29.663Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-08-16T18:04:24.067Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-07-19T12:02:49.276Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-05-23T17:20:39.166Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-08-09T15:41:40.006Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-09-24T17:08:28.017Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-08-10T12:44:52.317Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-01-19T15:57:20.835Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-04-15T17:58:50.576Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-02-01T09:19:20.277Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-12-15T10:01:03.154Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-10-26T17:29:56.250Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-06-21T19:31:49.267Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-05-30T14:07:28.007Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-09-27T18:44:28.684Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-08T14:29:42.804Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-05T09:31:10.946Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-02-05T12:17:50.347Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-24T09:39:06.394Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-10-12T11:28:35.605Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-04-04T17:11:36.524Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-18T15:41:23.521Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-08-15T18:34:00.717Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-06-16T13:44:24.956Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-01T18:16:57.225Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-02-11T15:37:03.832Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-12-18T13:40:33.673Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-11-01T14:58:24.717Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-08-22T18:12:21.913Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-04-28T18:20:12.358Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-10-15T17:11:37.657Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-01-01T09:36:58.013Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-01-25T16:52:24.008Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-17T15:35:01.919Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-08-21T11:02:10.317Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-02-08T12:45:13.376Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-10-08T19:13:04.277Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-03-02T11:57:24.656Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-01-19T16:30:35.825Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-05-09T13:23:49.815Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-09-19T16:57:57.458Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-02-26T11:43:04.925Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-12-29T13:59:18.886Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-04-23T12:37:18.602Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-22T15:57:58.547Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-10-14T17:06:29.930Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-05-19T09:05:41.800Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-10-21T14:29:05.801Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-11T16:20:02.175Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-21T17:01:42.575Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-06-22T17:11:44.005Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-03-19T13:42:28.806Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-04-28T15:42:39.047Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-06-14T12:51:25.675Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-10-16T19:40:53.212Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-12-18T10:17:47.304Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-07-28T11:28:42.477Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-12-09T19:02:51.847Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-12-30T17:42:04.939Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-26T18:05:17.874Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-17T13:53:15.120Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-10-13T13:42:36.545Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-03-17T11:20:22.326Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-12T15:03:28.764Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-09-30T18:09:24.743Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-11-10T13:19:37.147Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-03-24T18:57:22.228Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-12-08T14:32:32.924Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-09-15T11:44:39.830Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-02T19:04:49.556Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-08-25T11:45:15.085Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-04-24T15:12:47.465Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-08-12T11:25:05.752Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-11-11T16:21:37.270Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-11-20T14:36:49.952Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-09-10T09:11:35.857Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-03-16T13:55:03.202Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-09-17T11:26:56.274Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-12-15T09:24:51.875Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-30T19:33:15.055Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-02-17T11:28:11.572Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-04-02T11:59:52.006Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-07-31T17:04:06.351Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-07-31T09:51:39.600Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-07-12T16:19:39.785Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-08-21T19:27:42.194Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-04-26T16:38:13.307Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-30T10:48:22.180Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-09-02T14:01:42.751Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-06-07T11:45:23.618Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-10-02T12:44:05.394Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-09-08T16:28:58.455Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-04-16T11:34:36.389Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-06-23T19:48:51.050Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-01-17T17:34:27.472Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-09-12T10:29:43.873Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-06-17T17:13:37.149Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-03-11T16:10:18.365Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-12-21T10:02:20.973Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-08-06T10:34:09.695Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-06-18T18:12:45.305Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-04-25T09:36:38.415Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-09-09T12:42:16.779Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-03-11T15:09:08.766Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-06-08T13:51:31.704Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-07-31T16:58:00.553Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-12-04T14:57:08.138Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-12-12T12:20:34.955Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-02-07T16:32:28.692Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-24T16:22:12.472Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-03-28T19:00:43.573Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-10-03T10:29:44.173Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-07-20T12:26:40.558Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-04-28T09:25:44.888Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-08-23T11:21:05.574Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-03-22T19:40:31.832Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-10-15T15:34:56.355Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-07-24T18:20:10.513Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-02-14T19:32:44.423Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-04-01T11:29:50.221Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-24T09:10:42.521Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-01-08T12:26:01.541Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-01-15T18:49:51.182Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-11-22T10:48:28.421Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-10-03T19:29:14.222Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-05-14T15:09:57.265Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-09-15T17:17:08.349Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-11-18T14:50:43.913Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-09-04T09:33:06.458Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-04-28T19:02:03.266Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-10-28T15:45:57.176Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-04-04T17:20:32.500Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-04-30T15:30:46.937Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-05-22T09:33:45.690Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-01-09T17:09:42.614Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-10-09T11:21:59.172Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-04-12T09:39:10.107Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-17T16:00:16.181Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-01-26T11:35:47.458Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-09-04T11:00:04.994Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-12-20T12:02:49.502Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-11-10T10:13:43.649Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-05-26T10:11:46.344Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-07-14T14:43:40.956Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-12T18:34:26.306Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-08T14:36:27.841Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-06-06T12:43:33.274Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-06-19T14:17:54.409Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-12-14T12:21:54.906Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-04-19T11:18:28.208Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-09-27T14:36:14.308Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-04-30T14:20:37.063Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-04-16T19:42:58.265Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-04-28T18:47:31.796Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-09-10T16:36:15.959Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-05-05T13:11:02.510Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-01-10T17:13:46.636Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-06-11T15:59:52.394Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-18T09:11:25.791Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-12-04T11:07:52.406Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-03-24T10:56:59.454Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-02-14T10:43:44.562Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-03-17T14:53:36.266Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-08T16:34:24.059Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-03-23T14:53:58.185Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-02-01T17:54:52.828Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-12-12T12:39:38.139Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-09-02T09:51:56.173Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-05-27T16:32:07.536Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-10-12T11:52:45.127Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-05-16T09:19:13.919Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-09-06T14:26:08.596Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-04-08T11:14:57.561Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-04-24T17:14:35.509Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-07-18T18:36:59.105Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-01-31T09:02:19.624Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-10-02T15:25:59.279Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-04-09T11:18:44.592Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-07-10T12:44:53.362Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-05-09T17:24:24.233Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-10-28T18:46:28.154Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-03-20T12:54:09.548Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-12-26T12:29:20.750Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-06-10T14:33:05.621Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-09-13T10:23:04.444Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-03-29T11:19:48.902Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-06-30T12:57:44.887Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-08-11T11:41:01.813Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-03-05T12:11:44.133Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-02-23T13:55:58.821Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-06-19T18:20:50.361Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-08-12T11:16:58.748Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-07-31T13:58:41.313Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-05-04T11:51:26.235Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-10-25T12:49:38.206Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-10-28T16:40:38.270Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-12-12T13:43:28.178Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-03-16T13:08:04.277Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-09-15T15:21:58.832Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-02T09:22:47.156Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-03-27T09:06:41.752Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-05-13T10:37:23.193Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-12-17T18:23:31.216Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-03-15T12:57:31.768Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-03-02T15:59:22.176Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-01-28T15:59:16.876Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-04-03T10:36:42.012Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-23T10:50:49.021Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-07-26T11:36:19.580Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-10-04T09:41:11.661Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-05-27T11:20:38.373Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-11-26T17:47:02.053Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-02-03T10:51:56.335Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-11-15T17:05:57.572Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-08-02T14:53:40.863Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":2}
+{"fecha":"2018-07-04T13:58:12.658Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-02-11T16:57:46.337Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-06-20T17:38:57.859Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-08-29T14:40:00.263Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-03-06T12:36:53.203Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-07-27T18:44:32.693Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-05-14T13:21:01.075Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-03-02T16:12:40.904Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-07-09T16:19:41.383Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-03-17T19:21:43.133Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-28T18:14:32.738Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-11-19T18:25:51.293Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-12-14T14:14:45.836Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-02-10T13:34:34.189Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-08-29T16:09:25.966Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-09-17T09:41:04.424Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-06-07T15:57:32.706Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-04-01T17:04:00.754Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-09-28T14:49:43.708Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-06-29T12:38:21.419Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-04-04T10:11:36.266Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-11-24T14:48:22.740Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-10-01T13:16:24.124Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-01-08T14:56:19.080Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-08-22T15:22:18.054Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-08-01T11:13:28.093Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-02-13T16:06:33.067Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-10-04T10:07:55.200Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-08-04T14:05:36.823Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-02-15T10:33:00.704Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-05-09T09:52:20.245Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-12-03T13:21:20.376Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-09-17T17:09:56.313Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":3}
+{"fecha":"2018-10-11T12:55:24.377Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-09-10T15:34:53.834Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-03-14T12:06:00.120Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-06-20T09:59:29.358Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-06-18T18:33:02.990Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-10-26T14:35:35.658Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-09-21T14:10:26.869Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-05-30T16:35:17.578Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-05-08T15:26:09.746Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-07-24T15:34:42.689Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-02-02T14:46:18.086Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-10-23T19:31:30.627Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-09-01T16:47:18.054Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-12-30T10:00:50.811Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-11-29T10:19:07.632Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-01-21T14:27:11.940Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-10-09T18:07:05.155Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-04-17T15:05:00.560Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-07-30T09:45:54.123Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-03-11T13:19:56.427Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-06-08T19:24:58.366Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-12-21T19:19:05.555Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-10-08T14:29:46.118Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-18T16:22:42.396Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-03-27T17:02:37.816Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-05-11T09:33:33.499Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-07-06T09:26:18.811Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-01-22T17:31:21.278Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-09-19T16:02:18.659Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-04-10T14:54:25.516Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-09-27T10:12:23.078Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-05-31T09:25:07.324Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-11-12T14:34:41.286Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-08-22T10:13:16.421Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-07T12:58:47.310Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-06-30T12:31:01.402Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-10-01T18:53:50.440Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-10-23T11:23:44.499Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-01-05T09:44:04.068Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-01-11T16:44:06.851Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-11-20T19:02:12.177Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-05-16T12:09:21.361Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-11-03T18:32:24.543Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-02-10T11:27:12.387Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-09-18T09:53:30.855Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-12-20T19:09:20.162Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":3}
+{"fecha":"2018-12-06T10:37:31.725Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-07-18T18:47:16.388Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-02-05T14:01:35.113Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-18T12:45:58.341Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-04-09T10:53:27.466Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-04-19T18:46:34.035Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-04-18T15:58:35.348Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-03-13T15:39:40.375Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-06-30T18:43:48.726Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-02-02T17:32:22.686Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-01-10T17:35:15.076Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-04-26T09:16:39.520Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-01-31T13:08:21.411Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-05-05T09:44:21.572Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-08-29T13:29:28.714Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-01-07T15:52:01.674Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":1}
+{"fecha":"2018-11-27T17:42:37.403Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-11-16T10:30:15.677Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-03-05T12:41:17.778Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-04-01T09:00:18.831Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-04-20T16:55:27.148Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":1}
+{"fecha":"2018-10-02T16:24:07.382Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-06-22T19:20:20.774Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-01-24T09:26:54.831Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-10-11T17:16:18.326Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-01-05T09:30:13.193Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-05-11T19:38:44.984Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-16T10:51:36.073Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-06-29T11:31:09.165Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":1}
+{"fecha":"2018-03-03T16:49:24.003Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-11-13T19:22:32.068Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":1}
+{"fecha":"2018-03-26T15:46:28.515Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":1}
+{"fecha":"2018-11-05T10:18:12.320Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-10-17T14:49:35.339Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-03-24T12:59:51.960Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-12-10T15:45:29.833Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-11-19T13:17:19.806Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-04-18T09:07:19.309Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-07-19T17:12:43.337Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":1}
+{"fecha":"2018-07-20T11:25:41.348Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-09-19T09:22:59.351Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-04-14T14:50:32.287Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-01-14T17:28:48.278Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-10-31T10:58:51.789Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-02-09T13:29:20.276Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-12-26T17:50:18.156Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-10-10T10:40:59.089Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-12-07T12:28:40.978Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-01-31T15:01:59.293Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-07-30T16:27:14.174Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-11-28T09:40:37.463Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":3}
+{"fecha":"2018-12-19T10:48:52.277Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-07-14T12:01:25.791Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-02-25T17:51:52.514Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-06-14T14:32:35.309Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-07-18T18:35:31.693Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-05-16T12:26:56.139Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-07-30T17:22:44.306Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-01-09T13:41:07.093Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-02-03T17:46:19.402Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-07-08T12:22:36.485Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-02-14T09:49:38.731Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":2}
+{"fecha":"2018-06-11T16:23:17.897Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":2}
+{"fecha":"2018-03-31T17:59:43.337Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":2}
+{"fecha":"2018-09-24T13:58:03.466Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-04-18T15:51:00.485Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-06-20T13:15:47.955Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-09-17T14:44:58.920Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-04T15:59:11.875Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":3}
+{"fecha":"2018-06-03T13:10:30.305Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-01-23T14:54:55.219Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-03-31T15:16:24.309Z","tienda":"Galaica Cremas","producto":"Karité","cantidad":2}
+{"fecha":"2018-04-02T18:41:33.698Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-12-17T19:29:33.130Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":1}
+{"fecha":"2018-01-19T16:19:36.542Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-11-30T10:08:14.064Z","tienda":"Galaica Cremas","producto":"Coco & Oliva","cantidad":3}
+{"fecha":"2018-04-13T14:14:56.921Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-30T11:42:49.425Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-11-20T19:52:40.564Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":1}
+{"fecha":"2018-05-24T12:27:38.712Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-08-17T11:58:15.819Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":2}
+{"fecha":"2018-12-26T15:23:38.479Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-03-22T12:46:36.882Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-04-24T15:46:13.406Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":2}
+{"fecha":"2018-06-04T19:44:12.491Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-11-16T16:21:18.872Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":2}
+{"fecha":"2018-02-22T18:56:49.730Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-07-08T12:47:48.858Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-05-06T14:27:14.806Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-05-19T16:56:24.835Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-05-31T11:28:56.498Z","tienda":"Galaica Cremas","producto":"Hidro coque","cantidad":3}
+{"fecha":"2018-12-06T16:20:30.271Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":3}
+{"fecha":"2018-02-14T16:16:26.277Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":2}
+{"fecha":"2018-06-13T12:43:25.995Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}
+{"fecha":"2018-06-01T14:48:37.391Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":1}
+{"fecha":"2018-01-29T15:04:24.023Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":3}
+{"fecha":"2018-09-19T14:17:22.098Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":2}
+{"fecha":"2018-10-28T15:44:39.561Z","tienda":"Cosme Rioja","producto":"Caléndula","cantidad":1}
+{"fecha":"2018-04-28T13:59:22.195Z","tienda":"Galaica Cremas","producto":"Hiloaurónico","cantidad":3}
+{"fecha":"2018-05-20T11:59:24.086Z","tienda":"Cosme Rioja","producto":"Serum","cantidad":1}
+{"fecha":"2018-02-07T19:05:47.254Z","tienda":"Cosme Rioja","producto":"Aloe","cantidad":2}
+{"fecha":"2018-07-09T17:25:48.839Z","tienda":"Jabones la bética","producto":"Vainilla","cantidad":3}
+{"fecha":"2018-05-15T10:29:15.478Z","tienda":"Jabones la bética","producto":"Glicerina","cantidad":1}
+{"fecha":"2018-04-08T19:33:44.948Z","tienda":"Jabones la bética","producto":"Rosas","cantidad":2}
+{"fecha":"2018-07-18T13:17:09.162Z","tienda":"Cosme Rioja","producto":"Lavanda","cantidad":3}
+{"fecha":"2018-12-22T13:48:25.807Z","tienda":"Galaica Cremas","producto":"Citro uva","cantidad":3}

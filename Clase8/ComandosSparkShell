@@ -1,0 +1,27 @@
+// Ejemplo tabla de estaturas hombre y mujer
+
+val estaturas=Seq(("mujer",160),("mujer",163),("mujer",165), ("mujer",167),("mujer",171),("hombre",166),("hombre",171), ("hombre",172), ("hombre",175),("hombre",180))
+val miRDD=sc.parallelize(estaturas)
+val tablaEstaturas=spark.createDataFrame(miRDD).toDF("sexo","altura")
+tablaEstaturas.show
+
+// Media de alturas para toda la tabla y por sexo
+
+tablaEstaturas.groupBy().mean("altura").show
+tablaEstaturas.groupBy("sexo").mean("altura").show  
+tablaEstaturas.groupBy("sexo").agg(mean("altura") .as("aturaMedia")).show
+
+// Mediana de altura
+
+val mediana=tablaEstaturas.stat.approxQuantile("altura",Array(0.5),0.2)
+
+// Sql query
+
+val sqlContext = new org.apache.spark.sql.SQLContext(sc)
+tablaEstaturas.registerTempTable("tbEstaturas")
+sqlContext.sql("select sexo,mean(altura) from tbEstaturas group by sexo").show
+
+// Media de alturas para toda la tabla y por sexo
+
+sqlContext.sql("select sexo,mean(altura) from tbEstaturas group by sexo").explain(true)
+tablaEstaturas.groupBy("sexo").mean("altura").explain(true)

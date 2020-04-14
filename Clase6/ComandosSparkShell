@@ -1,0 +1,34 @@
+// Leer csv sin especificar esquema
+
+val carpetaDescarga="C:/Users/psz/"
+val df=spark.read.format("csv").option("header","true").load(carpetaDescarga+"Sueldos.csv")
+df.show
+
+// Leer csv dando esquema 
+
+import org.apache.spark.sql.types._
+val esquemaPersonalizado = StructType(Array(StructField("Nombre", StringType),StructField("Sexo", StringType),StructField("Edad", IntegerType),StructField("Salario", IntegerType)))
+val df= spark.read.format("csv").schema(esquemaPersonalizado).option("header","true").load(carpetaDescarga+"Sueldos.csv")
+df.printSchema
+df.show
+
+// Guardar parquet
+
+df.write.format("parquet").save(carpetaDescarga+"carpetaParquet")
+
+// Leer parquet y guardar como json
+
+val df2=spark.read.format("parquet"). load(carpetaDescarga+"carpetaParquet")
+df2.show
+df2.write.format("json").save(carpetaDescarga+"carpetaJson")
+
+
+// El se debe haber lanzado con los drivers:
+// spark-shell --driver-class-path elasticsearch-hadoop-6.1.1.jar;mariadb-java-client-2.2.6.jar --jars elasticsearch-hadoop-6.1.1.jar,mariadb-java-client-2.2.6.jar
+
+// Leer de Maria DB y guardar en Elasticsearch
+
+val dfMysql = spark.read.format("jdbc").option("url","jdbc:mysql://localhost:3306/Spark").option("driver","org.mariadb.jdbc.Driver").option("dbtable","Sueldos").option("user","root").option("password","").load()
+dfMysql.show
+
+dfMysql.write.format("org.elasticsearch.spark.sql").mode("Overwrite").save("indicespark/sueldos")

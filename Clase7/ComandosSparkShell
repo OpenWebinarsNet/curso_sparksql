@@ -1,0 +1,41 @@
+// spark-shell --driver-class-path SerializacionJava-1.0-SNAPSHOT.jar --jars SerializacionJava-1.0-SNAPSHOT.jar
+
+// Ejemplo de case class
+
+case class Empleado(Nombre: String,Sexo: String,Edad: Integer,Sueldo: Integer)
+import org.apache.spark.sql.Encoders
+import spark.implicits._
+val esquemaDeLaClase = Encoders.product[Empleado].schema
+val miDataset=spark.read.format("csv").schema(esquemaDeLaClase).option("header","true").load("C:/Users/psz/Desktop/CursoSparkSQL/Sueldos.csv").as[Empleado]
+miDataset.show
+
+// Secuencia con una clase de Java
+
+import paqmensajeria.Mensaje
+val m1=new Mensaje("Juan","Ortega Varona",1,"Mario","Campo Bueno",2,"Solicitud Admision","Deseo unirme al grupo G0")
+val m2=new Mensaje("Mario","Campo Bueno",2,"Juan","Ortega Varona",1,"Admitido","!Bienvenido a G0!")
+val listaMensajes=Seq(m1,m2)
+
+// RDD: paralelizar lista
+
+val miRDD=sc.parallelize(listaMensajes)
+
+// Map
+
+var rDD2=miRDD.map(x=>(x.getRemitente.getId, x.getDestinatario.getId,x.getTexto))
+rDD2.foreach(println)
+
+
+// Convertir a DataFrame
+
+// Sin especificar tipo datos fila
+val dfSinTipo = spark.createDataFrame(rDD2).toDF("IdRemitente", "IdDestinatario","Texto")
+dfSinTipo.show
+
+// Con tipo datos fila (case class)
+case class Fila(id1: String,id2: String,texto: String)
+val rDDcaseClass=miRDD.map(x=>Fila( x.getRemitente.getId.toString, x.getDestinatario.getId.toString,x.getTexto))
+val dfConTipo = spark.createDataFrame(rDDcaseClass). toDF("IdRemitente", "IdDestinatario","Texto")
+dfConTipo.show
+
+
